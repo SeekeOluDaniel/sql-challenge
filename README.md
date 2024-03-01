@@ -1,4 +1,4 @@
-# sql-challenge - Week 9 assignment
+# sql-challenge
  
 Research Project about people employed by a fictional company in the 1980s and 1990s.
 The purpose was to create a database, design tables to hold the employee data from six CSV files provided using POSTGRESQL. 
