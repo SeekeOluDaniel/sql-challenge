@@ -15,5 +15,3 @@ Data Engineering
 Data Analysis
 Answered 8 specific questions about the data by querying and performing other operations as needed. Details of the questions and the queries are provided in the EmployeeSQL Queries.sql file.
 
-** Monali, one of the BCS Learning Assistants was helpful in clarifying the order of importing the tables to ensure no errors during the import process.
-** Line 14 in the queries, I researched how to display the date format and extract the year from (chat.openai.com)
